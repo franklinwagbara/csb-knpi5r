@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://franklinwagbara.github.io/csb-knpi5r/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://franklinwagbara.github.io/csb-knpi5r/static/js/main.dc877417.chunk.js",
+    "main.js.map": "https://franklinwagbara.github.io/csb-knpi5r/static/js/main.dc877417.chunk.js.map",
+    "runtime-main.js": "https://franklinwagbara.github.io/csb-knpi5r/static/js/runtime-main.a74de566.js",
+    "runtime-main.js.map": "https://franklinwagbara.github.io/csb-knpi5r/static/js/runtime-main.a74de566.js.map",
+    "static/js/2.364c1bf4.chunk.js": "https://franklinwagbara.github.io/csb-knpi5r/static/js/2.364c1bf4.chunk.js",
+    "static/js/2.364c1bf4.chunk.js.map": "https://franklinwagbara.github.io/csb-knpi5r/static/js/2.364c1bf4.chunk.js.map",
+    "index.html": "https://franklinwagbara.github.io/csb-knpi5r/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://franklinwagbara.github.io/csb-knpi5r/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.364c1bf4.chunk.js.LICENSE.txt": "https://franklinwagbara.github.io/csb-knpi5r/static/js/2.364c1bf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a74de566.js",
+    "static/js/2.364c1bf4.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.dc877417.chunk.js"
+  ]
+}
